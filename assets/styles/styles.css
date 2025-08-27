@@ -1,0 +1,11 @@
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+  
+  width: 100% !important;
+  height: 100vh !important;
+ 
+  background: #000000 !important;
+  background-image: linear-gradient(rgba(36, 36, 36, 0.3) .1em, transparent .1em), linear-gradient(90deg, rgba(36, 36, 36, 0.3) .1em, transparent .1em) !important;
+  background-size: 1em 1em !important;
+}
